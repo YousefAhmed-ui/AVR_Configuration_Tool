@@ -1,0 +1,9 @@
+<jml>
+	<options>
+		<Option>Input_Floating</Option>
+		<Option>Input_Pull_Up</Option>
+		<Option>Input_Pull_Down</Option>
+		<Option>Output_LOW</Option>
+		<Option>Output_HIGH</Option>
+	</options>
+</jml>

@@ -1,0 +1,12 @@
+<jml>
+	<pins>
+    	<pinsNumber>PIN_0</pinsNumber>
+		<pinsNumber>PIN_1</pinsNumber>
+		<pinsNumber>PIN_2</pinsNumber>
+		<pinsNumber>PIN_3</pinsNumber>
+		<pinsNumber>PIN_4</pinsNumber>
+		<pinsNumber>PIN_5</pinsNumber>
+		<pinsNumber>PIN_6</pinsNumber>
+		<pinsNumber>PIN_7</pinsNumber>
+	</pins>
+</jml>

@@ -1,0 +1,8 @@
+<jml>
+	<ports>
+		<portName>PORT_A</portName>
+		<portName>PORT_B</portName>
+		<portName>PORT_C</portName>
+		<portName>PORT_D</portName>
+	</ports>
+</jml>

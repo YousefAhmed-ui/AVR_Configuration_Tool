@@ -1,0 +1,1 @@
+<jml><PIN_CFG><Port_Name>PORT_A</Port_Name><PIN_Number>PIN_1</PIN_Number><PIN_Option>Input_Pull_Down</PIN_Option></PIN_CFG><PIN_CFG><Port_Name>PORT_A</Port_Name><PIN_Number>PIN_4</PIN_Number><PIN_Option>Input_Floating</PIN_Option></PIN_CFG><PIN_CFG><Port_Name>PORT_B</Port_Name><PIN_Number>PIN_6</PIN_Number><PIN_Option>Input_Floating</PIN_Option></PIN_CFG></jml>
